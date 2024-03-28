@@ -47,4 +47,4 @@ readJsonFromFile(filePath)
 
 ## License
 
-This project is licensed under the MIT License - see the [The MIT License](LICENSE.TXT) file for details.
+This project is licensed under the MIT License - see the [LICENSE.TXT](LICENSE.TXT) file for details.
